@@ -1,0 +1,11 @@
+class evenodd
+{
+   public static void main(String args[]
+   {
+    int X=12;
+    if((n&1!)=0)
+    System.out.println("odd");
+    else
+    System.out.println("even");
+    }
+}
